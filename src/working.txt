@@ -1,0 +1,24 @@
+creating posts
+each post is a json object with heading, content
+Likes
+Comments as a list of objects in main post object
+Comments as {
+    user_id: "",
+    content: ""
+}
+
+No routes - only local state
+
+Cmomponents:
+Posts.js with posts listed
+AddComment.js each of posts has it, popup style
+
+CreatePost.js JS popup style for creating posts
+
+
+Last things:
+Connect everything together
+Some kind of styling
+
+
+Some kind of toggling between liked and not liked
